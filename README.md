@@ -7,3 +7,10 @@ Tasks to complete:
 2) Store accounts and certificates into a google sheet
 3) Update google sheet in repo for version control
 4) Establish a format for each table and update accordingly
+
+
+1. Data Gathering/Research (20 people)
+2. Data Formatting (Format the names and links)
+3. Data Cleaning (Clean any data that may be wrong or NA)
+4. Data Normalisation
+5. Data Visualisation
